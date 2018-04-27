@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "499807094698",
+    "firebase_url": "https://denis-music.firebaseio.com",
+    "project_id": "denis-music",
+    "storage_bucket": "denis-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499807094698:android:302789cbd2647b2e",
+        "android_client_info": {
+          "package_name": "com.example.denis.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499807094698-ijok3gkiqai77u38tggl90mjil9rp3mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.denis.myapplication",
+            "certificate_hash": "b676b013d87fa37861592ec6c9dc5366e4b7cc35"
+          }
+        },
+        {
+          "client_id": "499807094698-asvc0k91ncshtue05urgkro6k3inilah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdqFB0qze28emgkGpJxAL8a7ZbY7ZKAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499807094698-asvc0k91ncshtue05urgkro6k3inilah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
